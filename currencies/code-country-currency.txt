@@ -1,0 +1,759 @@
+AW
+AF
+AO
+AI
+AX
+AL
+AD
+AE
+AR
+AM
+AS
+AQ
+TF
+AG
+AU
+AT
+AZ
+BI
+BE
+BJ
+BF
+BD
+BG
+BH
+BS
+BA
+BY
+BZ
+BM
+BO
+
+BR
+BB
+BN
+BT
+
+BV
+BW
+CF
+CA
+CC
+CH
+
+
+CL
+
+CN
+CI
+CM
+CD
+CG
+CK
+CO
+
+KM
+CV
+CR
+CU
+
+CX
+KY
+CY
+CZ
+DE
+DJ
+DM
+DK
+DO
+DZ
+EC
+EG
+ER
+EH
+ES
+EE
+ET
+FI
+FJ
+FK
+FR
+FO
+FM
+GA
+GB
+GE
+GG
+GH
+GI
+GN
+GP
+GM
+GW
+GQ
+GR
+GD
+GL
+GT
+GF
+GU
+GY
+HK
+HM
+HN
+HR
+HT
+
+HU
+ID
+IM
+IN
+IO
+IE
+IR
+IQ
+IS
+IL
+IT
+JM
+JE
+JO
+JP
+KZ
+KE
+KG
+KH
+KI
+KN
+KR
+KW
+LA
+LB
+LR
+LY
+LC
+LI
+LK
+LS
+
+LT
+LU
+LV
+MO
+MA
+MC
+MD
+MG
+MV
+MX
+MH
+MK
+ML
+MT
+MM
+ME
+MN
+MP
+MZ
+MR
+MS
+MQ
+MU
+MW
+MY
+YT
+NA
+NC
+NE
+NF
+NG
+NI
+NU
+NL
+NO
+NP
+NR
+NZ
+OM
+PK
+PA
+
+PN
+PE
+PH
+PW
+PG
+PL
+PR
+KP
+PT
+PY
+PS
+PF
+QA
+RE
+RO
+RU
+RW
+SA
+SD
+SN
+SG
+GS
+SH
+SJ
+SB
+SL
+SV
+SM
+SO
+PM
+RS
+ST
+SR
+SK
+SI
+SE
+SZ
+SC
+SY
+TC
+TD
+TG
+TH
+TJ
+TK
+TM
+TL
+TO
+TT
+TN
+TR
+TV
+TW
+TZ
+UG
+UA
+UM
+UY
+US
+UZ
+VA
+VC
+VE
+VG
+VI
+VN
+VU
+WF
+WS
+YE
+ZA
+ZM
+ZW
+AWG
+AFN
+AOA
+XCD
+EUR
+ALL
+EUR
+AED
+ARS
+AMD
+USD
+
+EUR
+XCD
+AUD
+EUR
+AZN
+BIF
+EUR
+XOF
+XOF
+BDT
+BGN
+BHD
+BSD
+BAM
+BYR
+BZD
+BMD
+BOB
+BOV
+BRL
+BBD
+BND
+BTN
+INR
+NOK
+BWP
+XAF
+CAD
+AUD
+CHE
+CHF
+CHW
+CLF
+CLP
+CNY
+XOF
+XAF
+CDF
+XAF
+NZD
+COP
+COU
+KMF
+CVE
+CRC
+CUC
+CUP
+AUD
+KYD
+EUR
+CZK
+EUR
+DJF
+XCD
+DKK
+DOP
+DZD
+USD
+EGP
+ERN
+MAD
+EUR
+EUR
+ETB
+EUR
+FJD
+FKP
+EUR
+DKK
+USD
+XAF
+GBP
+GEL
+GBP
+GHS
+GIP
+GNF
+EUR
+GMD
+XOF
+XAF
+EUR
+XCD
+DKK
+GTQ
+EUR
+USD
+GYD
+HKD
+AUD
+HNL
+HRK
+HTG
+USD
+HUF
+IDR
+GBP
+INR
+USD
+EUR
+IRR
+IQD
+ISK
+ILS
+EUR
+JMD
+GBP
+JOD
+JPY
+KZT
+KES
+KGS
+KHR
+AUD
+XCD
+KRW
+KWD
+LAK
+LBP
+LRD
+LYD
+XCD
+CHF
+LKR
+LSL
+ZAR
+LTL
+EUR
+LVL
+MOP
+MAD
+EUR
+MDL
+MGA
+MVR
+MXN
+USD
+MKD
+XOF
+EUR
+MMK
+EUR
+MNT
+USD
+MZN
+MRO
+XCD
+EUR
+MUR
+MWK
+MYR
+EUR
+NAD
+XPF
+XOF
+AUD
+NGN
+NIO
+NZD
+EUR
+NOK
+NPR
+AUD
+NZD
+OMR
+PKR
+PAB
+USD
+NZD
+PEN
+PHP
+USD
+PGK
+PLN
+USD
+KPW
+EUR
+PYG
+
+XPF
+QAR
+EUR
+RON
+RUB
+RWF
+SAR
+SDG
+XOF
+SGD
+
+SHP
+NOK
+SBD
+SLL
+SVC
+EUR
+SOS
+EUR
+RSD
+STD
+SRD
+EUR
+EUR
+SEK
+SZL
+SCR
+SYP
+USD
+XAF
+XOF
+THB
+TJS
+NZD
+TMT
+USD
+TOP
+TTD
+TND
+TRY
+AUD
+TWD
+TZS
+UGX
+UAH
+USD
+UYU
+USD
+UZS
+EUR
+XCD
+VEF
+USD
+USD
+VND
+VUV
+XPF
+WST
+YER
+ZAR
+ZMK
+ZWL
+Aruban Guilder
+Afghani
+Kwanza
+East Caribbean Dollar
+Euro
+Lek
+Euro
+UAE Dirham
+Argentine Peso
+Armenian Dram
+US Dollar
+No universal currency
+Euro
+East Caribbean Dollar
+Australian Dollar
+Euro
+Azerbaijanian Manat
+Burundi Franc
+Euro
+CFA Franc BCEAO 
+CFA Franc BCEAO 
+Taka
+Bulgarian Lev
+Bahraini Dinar
+Bahamian Dollar
+Convertible Mark
+Belarussian Ruble
+Belize Dollar
+Bermudian Dollar
+Boliviano
+Mvdol 
+Brazilian Real
+Barbados Dollar
+Brunei Dollar
+Ngultrum 
+Indian Rupee
+Norwegian Krone
+Pula
+CFA Franc BEAC 
+Canadian Dollar
+Australian Dollar
+WIR Euro 
+Swiss Franc
+WIR Franc  
+Unidades de fomento 
+Chilean Peso
+Yuan Renminbi
+CFA Franc BCEAO 
+CFA Franc BEAC 
+Congolese Franc 
+CFA Franc BEAC 
+New Zealand Dollar
+Colombian Peso
+Unidad de Valor Real 
+Comoro Franc
+Cape Verde Escudo
+Costa Rican Colon
+Peso Convertible  
+Cuban Peso
+Australian Dollar
+Cayman Islands Dollar
+Euro
+Czech Koruna
+Euro
+Djibouti Franc
+East Caribbean Dollar
+Danish Krone
+Dominican Peso
+Algerian Dinar
+US Dollar
+Egyptian Pound
+Nakfa
+Moroccan Dirham
+Euro
+Euro
+Ethiopian Birr
+Euro
+Fiji Dollar
+Falkland Islands Pound
+Euro
+Danish Krone
+US Dollar
+CFA Franc BEAC 
+Pound Sterling
+Lari
+Pound Sterling
+Cedi
+Gibraltar Pound
+Guinea Franc
+Euro
+Dalasi
+CFA Franc BCEAO 
+CFA Franc BEAC 
+Euro
+East Caribbean Dollar
+Danish Krone
+Quetzal
+Euro
+US Dollar
+Guyana Dollar
+Hong Kong Dollar
+Australian Dollar
+Lempira
+Croatian Kuna
+Gourde
+US Dollar
+Forint
+Rupiah
+Pound Sterling
+Indian Rupee
+US Dollar
+Euro
+Iranian Rial
+Iraqi Dinar
+Iceland Krona
+New Israeli Sheqel
+Euro
+Jamaican Dollar
+Pound Sterling
+Jordanian Dinar
+Yen
+Tenge
+Kenyan Shilling
+Som
+Riel
+Australian Dollar
+East Caribbean Dollar
+Won
+Kuwaiti Dinar
+Kip
+Lebanese Pound
+Liberian Dollar
+Libyan Dinar
+East Caribbean Dollar
+Swiss Franc
+Sri Lanka Rupee
+Loti
+Rand
+Lithuanian Litas
+Euro
+Latvian Lats
+Pataca
+Moroccan Dirham
+Euro
+Moldovan Leu
+Malagasy Ariary
+Rufiyaa
+Mexican Peso
+US Dollar
+Denar
+CFA Franc BCEAO 
+Euro 
+Kyat
+Euro
+Tugrik
+US Dollar
+Metical
+Ouguiya
+East Caribbean Dollar
+Euro
+Mauritius Rupee
+Kwacha
+Malaysian Ringgit
+Euro
+Namibia Dollar
+CFP Franc
+CFA Franc BCEAO 
+Australian Dollar
+Naira
+Cordoba Oro
+New Zealand Dollar
+Euro
+Norwegian Krone
+Nepalese Rupee
+Australian Dollar
+New Zealand Dollar
+Rial Omani
+Pakistan Rupee
+Balboa
+US Dollar
+New Zealand Dollar
+Nuevo Sol
+Philippine Peso
+US Dollar
+Kina
+Zloty
+US Dollar
+North Korean Won
+Euro
+Guarani
+No universal currency
+CFP Franc
+Qatari Rial
+Euro
+Leu  
+Russian Ruble
+Rwanda Franc
+Saudi Riyal
+Sudanese Pound 
+CFA Franc BCEAO 
+Singapore Dollar
+No universal currency
+Saint Helena Pound
+Norwegian Krone
+Solomon Islands Dollar
+Leone
+El Salvador Colon
+Euro
+Somali Shilling
+Euro
+Serbian Dinar
+Dobra
+Surinam Dollar
+Euro 
+Euro
+Swedish Krona
+Lilangeni
+Seychelles Rupee
+Syrian Pound
+US Dollar
+CFA Franc BEAC 
+CFA Franc BCEAO 
+Baht
+Somoni      
+New Zealand Dollar
+New Manat
+US Dollar
+Pa’anga
+Trinidad and Tobago Dollar
+Tunisian Dinar
+Turkish Lira  
+Australian Dollar
+New Taiwan Dollar
+Tanzanian Shilling
+Uganda Shilling
+Hryvnia
+US Dollar
+Peso Uruguayo
+US Dollar
+Uzbekistan Sum
+Euro
+East Caribbean Dollar
+Bolivar Fuerte 
+US Dollar
+US Dollar
+Dong
+Vatu
+CFP Franc
+Tala
+Yemeni Rial
+Rand
+Zambian Kwacha
+Zimbabwe Dollar
